@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1507862418 source:c:\users\udit\cpp projects\cleaning up\main.cpp
+	<iostream>
+	<algorithm>
+
