@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1507861963 source:c:\users\udit\cpp projects\ciel and a-b problem\main.cpp
+	<iostream>
+	<math.h>
+	<stdlib.h>
+
